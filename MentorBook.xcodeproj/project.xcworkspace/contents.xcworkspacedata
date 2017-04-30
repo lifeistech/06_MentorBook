@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:06_MusicGame.xcodeproj">
+      location = "self:MentorBook.xcodeproj">
    </FileRef>
 </Workspace>
