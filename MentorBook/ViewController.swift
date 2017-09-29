@@ -22,8 +22,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        mentorArray.append(Mentor(name: "はしお", imageName: "hashio.JPG", course: "iPhone"))
-        mentorArray.append(Mentor(name: "あぐり", imageName: "aguri.jpg", course: "Unity"))
+        mentorArray.append(Mentor(name: "ながた", imageName: "nagata.jpg", course: "iPhone"))
+        mentorArray.append(Mentor(name: "りょう", imageName: "ryo.jpg", course: "Unity"))
         mentorArray.append(Mentor(name: "たいてぃ", imageName: "taithi.JPG", course: "WebS,WebD"))
         
         setUI()
